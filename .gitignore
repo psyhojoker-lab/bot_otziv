@@ -1,0 +1,17 @@
+# Виртуальные окружения
+venv/
+.venv/
+__pycache__/
+
+# Переменные окружения
+.env
+
+# Логи
+logs/
+
+# IDE
+.vscode/
+.idea/
+
+# Данные Google
+credentials.json
